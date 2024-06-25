@@ -10,7 +10,7 @@ def aud_to_aix(input_list, aix_file, key=None):
     if not aix_file.lower().endswith('.aix'):
         aix_file += '.aix'
 
-    command = [input_list, aix_file, key]
+    command = [aixmakec_path, input_list, aix_file]
     if key:
         command.extend(['-key', key])
 
@@ -34,3 +34,6 @@ def main():
         key = None
 
     aud_to_aix(input_list, aix_file, key)
+
+if __name__ == '__main__':
+    main()
