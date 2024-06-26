@@ -50,6 +50,7 @@ def main():
         aix_to_wav(args.aix_file, args.wav_file)
     else:
         parser.print_help()
+    pass
 
 if __name__ == '__main__':
     main()
