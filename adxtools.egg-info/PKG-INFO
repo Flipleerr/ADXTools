@@ -2,11 +2,12 @@ Metadata-Version: 2.1
 Name: adxtools
 Version: 0.1.0
 Summary: A set of lightweight command-line tools written in Python for modifying ADX files
-Author: memoryleak
-Author-email: theflipleerr@gmail.com
+Author-email: memoryleak <theflipleerr@gmail.com>
+Project-URL: Homepage, https://github.com/Flipleerr/ADXTools
+Project-URL: Issues, https://github.com/Flipleerr/ADXTools/issues
 Classifier: Programming Language :: Python :: 3
-Classifier: License :: GPL v2.0
-Classifier: Operating System :: Windows
+Classifier: License :: OSI Approved :: GNU General Public License v2 (GPLv2)
+Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 License-File: LICENSE

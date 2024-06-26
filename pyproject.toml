@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "adxtools"
+version = "0.1.0"
+authors = [
+  { name="memoryleak", email="theflipleerr@gmail.com" },
+]
+description = "A set of lightweight command-line tools written in Python for modifying ADX files"
+readme = "README.md"
+requires-python = ">=3.6"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU General Public License v2 (GPLv2)",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/Flipleerr/ADXTools"
+Issues = "https://github.com/Flipleerr/ADXTools/issues"

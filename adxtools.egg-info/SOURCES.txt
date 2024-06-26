@@ -1,7 +1,7 @@
 LICENSE
 MANIFEST.in
 README.md
-setup.py
+pyproject.toml
 adxtools/__init__.py
 adxtools/adx_conversion.py
 adxtools/ahx_conversion.py
@@ -10,5 +10,4 @@ adxtools/main.py
 adxtools.egg-info/PKG-INFO
 adxtools.egg-info/SOURCES.txt
 adxtools.egg-info/dependency_links.txt
-adxtools.egg-info/entry_points.txt
 adxtools.egg-info/top_level.txt
