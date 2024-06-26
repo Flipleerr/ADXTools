@@ -2,7 +2,6 @@ Metadata-Version: 2.1
 Name: adxtools
 Version: 0.1.0
 Summary: A set of lightweight command-line tools written in Python for modifying ADX files
-Home-page: https://github.com/Flipleerr/ADXTools
 Author: memoryleak
 Author-email: theflipleerr@gmail.com
 Classifier: Programming Language :: Python :: 3
